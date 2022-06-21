@@ -4,5 +4,8 @@
 ![Featuretools](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/featuretools.png)
 
 This repo was prepared by using Featuretools
- <ins>## Installation</ins> 
-
+<ins> ## Installation </ins> __
+Install with pip
+python -m pip install featuretools
+or from the Conda-forge Channel
+conda install -c conda-forge featuretools
