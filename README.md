@@ -1,4 +1,4 @@
 # Automated-Feature-Engineering
-![This is an image](https://www.analyticsvidhya.com/blog/2018/02/feature-labs-launches-python-integrated-software-to-automate-feature-engineering/)
+![Featuretools](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/featuretools.png)
 
 This repo was prepared by using Featuretools
